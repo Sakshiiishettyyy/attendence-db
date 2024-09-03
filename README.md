@@ -1,0 +1,1 @@
+The Attendance Management System is a comprehensive software designed to streamline student attendance tracking in educational institutions, addressing common challenges and ensuring accuracy. It provides a user-friendly interface for students and teachers, enabling easy access to attendance records, notifications, and progress tracking.
